@@ -1,4 +1,3 @@
-
 # Code Refractor
 
 ## Description
@@ -16,9 +15,10 @@ https://www.w3schools.com/html/html5_semantic_elements.asp
 https://www.w3schools.com/tags/att_img_alt.asp
 
 ## Screenshots
-![Top of webpage](Screenshot1.png)
-![Middle of webpage](Screenshot2.png)
-![Bottom of webpage](Screenshot3.png)
+
+![Top](/assets/images/Screenshot1.png "Top")
+![Middle](/assets/images/Screenshot2.png "Middle")
+![Bottom](/assets/images/Screenshot3.png "Bottom")
 
 ## Links
 
